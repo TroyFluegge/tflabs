@@ -4,7 +4,7 @@ terraform {
     organization = "UpdateThisWithYourOrgName"
 
     workspaces {
-      name = "hashicat"
+      name = "tflabs"
     }
   }
 }
