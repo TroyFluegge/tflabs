@@ -11,7 +11,7 @@
 
 provider "aws" {
  # Region is a required parameter
- # Define 'US-East-2' as the region
+ # Define 'us-east-2' as the region
 }
 
 /*  
